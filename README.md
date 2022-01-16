@@ -1,7 +1,7 @@
 # Share_Your_Daily_Progress_DiscordBOT
 Bot to share your progress of anything in communities
 
-A copy of Discord bot for conducting standups in "The Programming Hangout". But in a (LOT) more simpler way
+A copy of Discord bot for conducting standups in "The Programming Hangout". But a (LOT) simpler
 Take a look at https://github.com/the-programmers-hangout/standup
 
 ## Installation
